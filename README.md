@@ -1,34 +1,4 @@
-# Instagram-clone
-[![Financial Contributors on Open Collective](https://opencollective.com/instagram-clone-php/all/badge.svg?label=financial+contributors)](https://opencollective.com/instagram-clone-php) 
 
-An Instagram-clone with my own flavors and features!!
-
-**No longer maintained.**
-
----
-### 🛒 Launch your online store with [OwnStore](https://ownstore.dev).
----
-
-# Updated version
-Please note that this project is no longer maintained. Have a look at another version of this project which is a single-page application
-
-**[React Version](https://github.com/yTakkar/React-Instagram-Clone-2.0)**
-
-Feel free to contribute!!
-
-# Quick links
-1. [Features](#features)
-2. [Requirements](#requirements)
-3. [Own the project](#own-the-project)
-4. [Login/Signup Error](#loginsignup-error)
-5. [Contribute](#contribute)
-6. [Images copyright claims](#copyright-claims)
-
-Here's a video which will take you on a tour of this project!!
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/pwoXUIjRxfk/0.jpg)](https://www.youtube.com/watch?v=pwoXUIjRxfk)
-
-[Screenshots](https://github.com/yTakkar/Instagram-clone/tree/master/screenshots "More screenshots")
 
 # Features
 1. Login, Signup, Forgot password (with email verification).
@@ -92,47 +62,8 @@ If you're interested in watching a video on how to use or set it up, click the b
 5. If `Time ago` feature is not working correctly (forward or behind), then go to `config/class/time.class.php` & play around with line no `8`.
 6. Enjoy!!
 
-# Login/Signup Error
-
-If you have followed all the steps, especially step no. 3 and using Chrome browser for initial testing and you're unable to login or signup, then try changing the Chrome browser for initial testing and it will work. Because Chrome sometimes doesn't reload the files.
-4-5 issues are regarding this error only!!
-
-# Contribute
-Show your support by 🌟 the project!!
-
-Feel free to contribute!
-
-# Copyright claims
-Many images used in the project belong to their respective creators/authors. No claim by me & those who use this project!!
 
 **Thanks for reading**
 
-## Contributors
 
-### Code Contributors
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/yTakkar/Instagram-clone/graphs/contributors"><img src="https://opencollective.com/instagram-clone-php/contributors.svg?width=890&button=false" /></a>
-
-### Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/instagram-clone-php/contribute)]
-
-#### Individuals
-
-<a href="https://opencollective.com/instagram-clone-php"><img src="https://opencollective.com/instagram-clone-php/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/instagram-clone-php/contribute)]
-
-<a href="https://opencollective.com/instagram-clone-php/organization/0/website"><img src="https://opencollective.com/instagram-clone-php/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/1/website"><img src="https://opencollective.com/instagram-clone-php/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/2/website"><img src="https://opencollective.com/instagram-clone-php/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/3/website"><img src="https://opencollective.com/instagram-clone-php/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/4/website"><img src="https://opencollective.com/instagram-clone-php/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/5/website"><img src="https://opencollective.com/instagram-clone-php/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/6/website"><img src="https://opencollective.com/instagram-clone-php/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/7/website"><img src="https://opencollective.com/instagram-clone-php/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/8/website"><img src="https://opencollective.com/instagram-clone-php/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/instagram-clone-php/organization/9/website"><img src="https://opencollective.com/instagram-clone-php/organization/9/avatar.svg"></a>
