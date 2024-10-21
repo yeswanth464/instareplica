@@ -49,21 +49,6 @@ eg. F1, F2, F3 and 230 others liked where F = Following.
 # Requirements
 1. Latest version of PHP.
 
-# Own the project
-
-If you're interested in watching a video on how to use or set it up, click the below image!!
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jI_z-4XWLLk/0.jpg)](https://www.youtube.com/watch?v=jI_z-4XWLLk)
-
-1. Open PHPMyAdmin, create a Database & import `instagram.sql`. 
-2. Open `config/class/needy_class.php` & fill up your PDO, Path & Gmail details.
-3. Open `config/declare.php`, `config/class/needy_class.php` & `public/js/modules.js` & replace `DIR` variable containing my root path with your root path. (Note: Do not add forward slash in the end!).
-4. Open `.htaccess`, go to line 17 & replace it with your root path.
-5. If `Time ago` feature is not working correctly (forward or behind), then go to `config/class/time.class.php` & play around with line no `8`.
-6. Enjoy!!
-
-
-**Thanks for reading**
 
 
 
